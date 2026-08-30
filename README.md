@@ -4,7 +4,7 @@
 
 **I'm an adventurer exploring the vast world of computers**
 
-`Incheon, KR` · `Cloud` · `Backend` · `Infrastructure`
+`Incheon, KR` · `Cloud` · `Backend` · `Frontend` ·`Infrastructure`
 
 </div>
 
