@@ -55,8 +55,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rladnwls122&show_icons=true&hide_border=true&theme=transparent" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rladnwls122&layout=compact&hide_border=true&theme=transparent" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rladnwls122&theme=github_dark" width="820" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rladnwls122&theme=github_dark" height="200" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rladnwls122&theme=github_dark" height="200" />
+
+<img src="https://streak-stats.demolab.com/?user=rladnwls122&theme=github-dark-blue&hide_border=true" height="180" />
 
 </div>
 
