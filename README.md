@@ -16,7 +16,6 @@
 | --- | --- | --- |
 | **[IΔEA](https://github.com/rladnwls122/I-EA)** | 문항을 풀고 → 틀린 이유를 태그로 남기고 → AI가 약점 데이터로 다시 출제하는 학습 루프 플랫폼. 교내 개발마라톤 수상작 | `Next.js` `NestJS` `TiDB` `Gemini·SSE` `BullMQ·Redis` |
 | **[skills_dashboard](https://github.com/rladnwls122/skills_dashboard-wooj)** | "지금 무엇이 아픈가"만 첫 화면에 남긴 클라우드 · K8s 통합 대시보드 | `Next.js` `CloudWatch` `K8s API` |
-| **[mydoo-viewer-cli](https://github.com/rladnwls122/mydoo-viewer-cli)** | md/html/txt/docx/hwp/hwpx를 한 창에서 여는 가장 가벼운 문서 뷰어 | `CLI` `Node.js` |
 | **[JetBrainsMonoD2 Nerd Font](https://github.com/rladnwls122/JetBrainsMonoD2-Nerd-Font)** | JetBrains Mono Nerd Font + D2Coding 한글 글리프. 1:2 정렬이 딱 맞는 개발용 폰트 | `Font` `Fontforge` |
 
 ## 🏆 Awards
