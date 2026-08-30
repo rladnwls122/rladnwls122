@@ -2,7 +2,7 @@
 
 # Hi There 👋
 
-**I'am an adventurer exploring the vast world of computers**
+**I'm an adventurer exploring the vast world of computers**
 
 `Incheon, KR` · `Cloud` · `Backend` · `Infrastructure`
 
