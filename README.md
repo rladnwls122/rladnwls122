@@ -18,7 +18,7 @@
 | **[skills_dashboard](https://github.com/rladnwls122/skills_dashboard-wooj)** | "지금 무엇이 아픈가"만 첫 화면에 남긴 클라우드 · K8s 통합 대시보드 | `Next.js` `CloudWatch` `K8s API` |
 | **[JetBrainsMonoD2 Nerd Font](https://github.com/rladnwls122/JetBrainsMonoD2-Nerd-Font)** | JetBrains Mono Nerd Font + D2Coding 한글 글리프. 1:2 정렬이 딱 맞는 개발용 폰트 | `Font` `Fontforge` |
 | **[Skills-guide](https://github.com/rladnwls122/skills-2026-guide)** | 기능반 후배들을 위해 남겨놓은 기능대회 훈련 사이트 | `Astro Starlight` | 
-| **[My Portfolio](https://portfolio-jii8528zm-rladnwls122s-projects.vercel.app/)** | 내가 했던 프로젝트/대회를 회고하며 정리해놓은 사이트 | `Next.js` | 
+| **[My Portfolio](https://portfolio-ten-rho-p4ay112mhh.vercel.app/)** | 내가 했던 프로젝트/대회를 회고하며 정리해놓은 사이트 | `Next.js` | 
 
 ## 🏆 Awards
 
