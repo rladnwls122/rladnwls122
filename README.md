@@ -15,9 +15,11 @@
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **[IΔEA](https://github.com/rladnwls122/I-EA)** | 문항을 풀고 → 틀린 이유를 태그로 남기고 → AI가 약점 데이터로 다시 출제하는 학습 루프 플랫폼. 교내 개발마라톤 수상작 | `Next.js` `NestJS` `TiDB` `Gemini·SSE` `BullMQ·Redis` |
+| **[Blindspot](https://github.com/rladnwls122/blindspot)** | git blame이 *누가 썼는지*를 알려준다면, Blindspot은 *누가 읽었는지*를 알려주는 VS Code 확장. IDE 이벤트만으로 diff의 각 줄을 실제로 읽었는지 추정해 커밋 직전에 안 읽은 부분을 보여준다 | `TypeScript` `VS Code API` `Git hooks` |
 | **[skills_dashboard](https://github.com/rladnwls122/skills_dashboard-wooj)** | "지금 무엇이 아픈가"만 첫 화면에 남긴 클라우드 · K8s 통합 대시보드 | `Next.js` `CloudWatch` `K8s API` |
 | **[JetBrainsMonoD2 Nerd Font](https://github.com/rladnwls122/JetBrainsMonoD2-Nerd-Font)** | JetBrains Mono Nerd Font + D2Coding 한글 글리프. 1:2 정렬이 딱 맞는 개발용 폰트 | `Font` `Fontforge` |
 | **[Skills-guide](https://github.com/rladnwls122/skills-2026-guide)** | 기능반 후배들을 위해 남겨놓은 기능대회 훈련 사이트 | `Astro Starlight` | 
+| **[Skills-guide · 지방](https://github.com/rladnwls122/skills-guide-regional)** | 지방기능경기대회 기출 4년치를 매년 반복되는 다섯 개 축으로 분해한 훈련 문서. 전국판과 달리 깊이보다 속도와 누락 없음에 맞췄다 | `Astro Starlight` `MDX` |
 | **[My Portfolio](https://portfolio-ten-rho-p4ay112mhh.vercel.app/)** | 내가 했던 프로젝트/대회를 회고하며 정리해놓은 사이트 | `Next.js` | 
 
 ## 🏆 Awards
